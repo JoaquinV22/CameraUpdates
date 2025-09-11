@@ -1,11 +1,22 @@
 {
-  "1": "Frente",
-  "2": "ChusmaIzq",
-  "3": "ChusmaMedio",
-  "4": "ChusmaDer",
-  "5": "PasilloFondo",
-  "6": "Porche",
-  "7": "Frente2",
-  "8": "Frente3",
-  "9": "Cookie"
+  "cam-1": {
+    "1": "Frente",
+    "2": "ChusmaIzq",
+    "3": "ChusmaMedio",
+    "4": "ChusmaDer",
+    "5": "PasilloFondo",
+    "6": "Porche",
+    "7": "Frente2",
+    "8": "Frente3",
+    "9": "Cookie"
+  },
+  "cam-2": {
+    "1": "Izquierda",
+    "2": "Medio",
+    "3": "Derecha"
+  },
+  "default": {
+    "1": "Preset 1",
+    "2": "Preset 2"
+  }
 }
