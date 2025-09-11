@@ -13,7 +13,8 @@
   "cam-2": {
     "1": "Izquierda",
     "2": "Medio",
-    "3": "Derecha"
+    "3": "MedioBajo",
+    "4": "Derecha"
   },
   "default": {
     "1": "Preset 1",
